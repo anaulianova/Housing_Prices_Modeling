@@ -6,7 +6,7 @@ The business problem is defined as follows: a real estate development firm is lo
 The objective, naturally, is profit and the firm wants to understand which factors it should focus it’s consideration on during the development process, in order to maximize the chances of future sales.  Accordingly, the analysis below is focused on identifying features that have a considerable impact on pricing. 
 
 ### Data
->	House Sales in King County, USA (2014 – 2015), (Source: Kaggle); \n
+>	House Sales in King County, USA (2014 – 2015), (Source: Kaggle); 
 >	Common Point of Interest for King County, (source: ArcGIS Hub)
 
 ### Methodology
