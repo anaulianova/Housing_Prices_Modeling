@@ -1,6 +1,6 @@
 # Housing Prices Modeling
 
-![alt text](https://github.com/anaulianova/Housing_Prices_Modeling/tree/main/images)
+![alt text](https://github.com/anaulianova/Housing_Prices_Modeling/blob/main/images/assessors_social-1.jpg)
 
 ### Project Overview
 The business problem is defined as follows: a real estate development firm is looking to launch its latest development project in Washington State and is looking at its most populous county – King County, as its target market. 
