@@ -13,14 +13,23 @@ The objective, naturally, is profit and the firm wants to understand which facto
 >	Common Point of Interest for King County, (source: ArcGIS Hub)
 
 ### Methodology
-This project uses the OSEMN (Obtain, Scrub, Explore, Model, Interpret) methodology and provides a possible linear regression model to predict housing prices in King County, WA. 
+This project uses the OSEMiN (Obtain, Scrub, Explore, Model, Interpret) methodology and provides a possible linear regression model to predict housing prices in King County, WA. 
 
 ### Results
 
+After examining the variables obtained in the datasets, my model has determined that the grade of the housing unit and the presence of a waterfront view are important factors influencing the prices of houses in King County. The model fits the data approximately 62.7% of the time, with a 95% degree of certainty. 
 
+The model does have a medium positive skew to it. It conforms to the assumptions of normality (with outliers in the right tail) and homoscedasticity (with a Durbn-Watson score of 1.99). 
 
+With regards to linearity, the model had several multicolinear variables that accounted for approximately 5% of its accuracy, which were subsequently removed. 
 
+Finally, the latitude and longitudes were interestig variables as their removal dropped the model accuracy to below 60%, however given the time restrictions, this model could not be expanded to delve into these variables in more detail. 
 
+##### Features
+
+> Grade attributed to house: grades below 8 showed a negative coefficient, hence a negative relatinship to prices. As the grade grows, so the does its coefficient. 
+
+> Waterfront View: the presence of a waterfront view was shown to increase housing prices in King County, WA. 
 
 
 
