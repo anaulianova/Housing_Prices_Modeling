@@ -1,10 +1,12 @@
 # Housing Prices Modeling
 
-![alt text](https://github.com/anaulianova/Housing_Prices_Modeling/blob/main/images/shutterstock_136157789.jpg)
 
 ### Project Overview
 The business problem is defined as follows: a real estate development firm is looking to launch its latest development project in Washington State and is looking at its most populous county – King County, as its target market. 
 The objective, naturally, is profit and the firm wants to understand which factors it should focus it’s consideration on during the development process, in order to maximize the chances of future sales.  Accordingly, the analysis below is focused on identifying features that have a considerable impact on pricing. 
+
+![alt text](https://github.com/anaulianova/Housing_Prices_Modeling/blob/main/images/shutterstock_136157789.jpg)
+
 
 ### Data
 >	House Sales in King County, USA (2014 – 2015), (Source: Kaggle); 
